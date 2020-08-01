@@ -1,0 +1,28 @@
+{% assign memberships = site.data.data.memberships %}
+{% if memberships %}
+<section class="section memberships-section">
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-briefcase fa-stack-1x fa-inverse"></i>
+    </span>
+    Memberships
+  </h2>
+
+  {% for membership in memberships %}
+  <div class="item">
+
+    <div class="meta">
+
+      <div class="upper-row">
+        <h3 class="job-title">{{ membership.role }}</h3>
+        <div class="time">{{ membership.time }}</div>
+      </div><!--//upper-row-->
+
+    </div><!--//meta-->
+
+  </div><!--//item-->
+  {% endfor %}
+
+</section><!--//section-->
+{% endif %}
