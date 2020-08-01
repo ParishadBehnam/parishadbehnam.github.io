@@ -1,6 +1,6 @@
 {% assign memberships = site.data.data.memberships %}
 {% if memberships %}
-<section class="section memberships-section">
+<section class="section experiences-section">
   <h2 class="section-title">
     <span class="fa-stack fa-xs">
       <i class="fas fa-circle fa-stack-2x"></i>
@@ -15,11 +15,17 @@
     <div class="meta">
 
       <div class="upper-row">
-        <h3 class="job-title">{{ membership.role }}</h3>
+        <h3 class="project-title">{{ membership.role }}</h3>
         <div class="time">{{ membership.time }}</div>
       </div><!--//upper-row-->
 
     </div><!--//meta-->
+    
+    {% if membership.details %}
+    <div class="details">
+      {{ membership.details | markdownify }}
+    </div><!--//details-->
+    {% endif %}
 
   </div><!--//item-->
   {% endfor %}
