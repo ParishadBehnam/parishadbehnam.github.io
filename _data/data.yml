@@ -51,21 +51,21 @@ career-profile:
       I have also started my summer internship recently at Max Planck Institute for Software Systems under the supervision of Prof. Manuel Gomez Rodriguez. I am mainly interested in Graph Representation Learning and Natural Language Processing. More specifically, I apply Deep Learning methods in NLP tasks and enhance the performance by incorporating knowledge from both texts and graphs.
 
 
-education:
-    - degree: M.Sc. in Artificial Intelligence 
-      university: Sharif University of Technology (Tehran, Iran)
-      time: 2018 - present
-      details: |
+# education:
+#     - degree: M.Sc. in Artificial Intelligence 
+#       university: Sharif University of Technology (Tehran, Iran)
+#       time: 2018 - present
+#       details: |
     
-    - degree: B.Sc. in Software Engineering
-      university: Sharif University of Technology (Tehran, Iran)
-      time: 2014 - 2018
-      details: |
+#     - degree: B.Sc. in Software Engineering
+#       university: Sharif University of Technology (Tehran, Iran)
+#       time: 2014 - 2018
+#       details: |
    
-    - degree: Diploma in Mathematics and Physics Discipline
-      university: Farzanegan2 High School, Tehran, Iran (Affiliated with National Organization for Development of Exceptional Talents (NODET))
-      time: 2010 - 2014
-      details: |
+#     - degree: Diploma in Mathematics and Physics Discipline
+#       university: Farzanegan2 High School, Tehran, Iran (Affiliated with National Organization for Development of Exceptional Talents (NODET))
+#       time: 2010 - 2014
+#       details: |
 
 
 educationcomplete:
@@ -88,55 +88,21 @@ educationcomplete:
       details: |
         GPA: 19.85/20
 
-#     - degree: Internship (Master Thesis)
-#       university: Tobii
-#       time: 2014 - 2015
-#       details: |
-#         Master thesis topic Hand gesture classification by Deep learning using infrared camera 
+experiences:
+    - role: Remote Summer Intern
+      time: Jun 2020 - Present
+      company: Max Planck Institute for Software Systems, Kaiserslautern, Germany
+      details: |
+      
+    - role: Research Assistant
+      time: Oct 2018 - Present
+      company: <a href="https://mll.ce.sharif.edu/" target="_blank" rel="nofollow">Machine Learning Laboratory</a>, Sharif University of Technology, Tehran, Iran
+      details: |
 
-#           - Deep learning
-#           - Hand Gesture
-
-#     - degree: Master Degree
-#       university: KTH (Stockholm, Sweden)
-#       time: 2013 - 2015
-#       details: |
-#         Master degree in Computer Science and Artificial Intelligence
-
-#           - Artificial Intelligence
-#           - Machine Learning
-#           - Computer Vision
-
-#experiences:
-    #- role: Lead Developer
-      #time: 2015 - Present
-      #company: Startup Hubs, San Francisco
-      #details: |
-        #Describe your role here lorem ipsum dolor sit amet, consectetuer
-        #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        #Cum sociis natoque penatibus et magnis dis parturient montes,
-        #nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        #pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        #enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        #error sit voluptatem accusantium doloremque laudantium, totam rem
-        #aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        #architecto beatae vitae dicta sunt explicabo.
-
-          #- Bullet point
-          #- Bullet point
-
-    #- role: Senior Software Engineer
-      #time: 2014 - 2015
-      #company: Google, London
-      #details: |
-        #Describe your role here lorem ipsum dolor sit amet, consectetuer
-        #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        #Cum sociis natoque penatibus et magnis dis parturient montes,
-        #nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        #pellentesque eu, pretium quis, sem.
-
-          #- Bullet point
-          #- Bullet point
+    - role: Intern
+      time: Jul 2018 - Sep 2018
+      company: <a href="https://cafebazaar.ir/" target="_blank" rel="nofollow">Cafe Bazaar</a>, Tehran, Iran
+      details: |
 
     #- role: UI Developer
       #time: 2012 - 2014
@@ -151,12 +117,12 @@ educationcomplete:
           #- Bullet point
           #- Bullet point
 
-#projects:
-    #title: Projects
-    #intro: >
-      #You can list your side projects or open source libraries in this
-      #section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      #Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+projects:
+    title: Projects
+    intro: >
+      You can list your side projects or open source libraries in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     #assignments:
       #- title: Velocity
