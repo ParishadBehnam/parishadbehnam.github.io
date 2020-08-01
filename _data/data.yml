@@ -120,6 +120,8 @@ experiences:
 
 projects:
     title: Projects
+    intro: You can find my other projects in <a href="https://github.com/ParishadBehnam/" target="_blank" rel="nofollow">my GitHub page</a>.
+    
     assignments:
       - title: Graph-based Word Embedding using Deep Neural Networks
         tagline: "A deep approach for embedding words of texts, especially the unseen or less frequent ones, by considering Knowledge Graphs."
