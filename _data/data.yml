@@ -70,21 +70,20 @@ career-profile:
 
 educationcomplete:
     - degree: M.Sc. in Artificial Intelligence 
-      university: Sharif University of Technology (Tehran, Iran)
+      university: Sharif University of Technology, Tehran, Iran
       time: 2018 - present
       details: |
         GPA: 18.83/20
     
     - degree: B.Sc. in Software Engineering
-      university: Sharif University of Technology (Tehran, Iran)
+      university: Sharif University of Technology, Tehran, Iran
       time: 2014 - 2018
       details: |
-        GPA: 18.75/20
-        
+        GPA: 18.75/20 >
         Thesis Project: "Prediction of products features rates with sentiment analysis", under the supervision of Prof. Mahdieh Soleymani
 
     - degree: Diploma in Mathematics and Physics Discipline
-      university: Farzanegan2 High School (Tehran, Iran) (Affiliated with National Organization for Development of Exceptional Talents (NODET))
+      university: Farzanegan2 High School, Tehran, Iran (Affiliated with National Organization for Development of Exceptional Talents (NODET))
       time: 2010 - 2014
       details: |
         GPA: 19.85/20
@@ -121,14 +120,14 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-
-    #assignments:
-      #- title: Velocity
-        #link: "#hook"
-        #tagline: "A responsive website template designed to help startups promote, market and sell their products."
+          - role: Intern
+            time: Jul 2018 - Sep 2018
+            company: <a href="https://cafebazaar.ir/" target="_blank" rel="nofollow">Cafe Bazaar</a>, Tehran, Iran
+            details: |
+    assignments:
+      - title: Graph-based Word Embedding using Deep Neural Networks
+        link: 
+        tagline: "A deep approach for embedding words of texts, especially the unseen or less frequent ones, by considering Knowledge Graphs."
 
       #- title: DevStudio
         #link: "#"
@@ -146,65 +145,18 @@ projects:
         #link: "#"
         #tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-# publications:
-#     title: Publications
-#     intro: |
-      
-
-#     papers:
-#       - title: "Rethinking Zero-shot Video Classification: End-to-end Training for Realistic Applications"
-#         authors: B. Brattoli, J. Tighe, F. Zhdanov, P. Perona, K. Chalupka
-#         conference: CVPR, 2020
-        
-#       - title: "MIC: Mining Interclass Characteristics for Improved Metric Learning"
-#         authors: B. Brattoli*, K. Roth*, B. Ommer
-#         conference: ICCV, 2019
-
-#       - title: "Improving Spatiotemporal Self-Supervision by Deep Reinforcement Learning"
-#         authors: B. Brattoli*, U. Buechler*, B. Ommer
-#         conference: ECCV, 2018
-
-#       - title: "LSTM Self-Supervision for Detailed Behavior Analysis"
-#         authors: B. Brattoli*, U. Buechler*, A. Wahl, M. Schwab, B. Ommer
-#         conference: CVPR, 2017
-
-#       - title: "Cross and Learn: Cross-Modal Self-Supervision"
-#         authors: N. Sayer, B. Brattoli, B. Ommer
-#         conference: oral at GCPR, 2018
-
-#       - title: "X-GAN: Improving Generative Adversarial Networks with ConveX Combinations"
-#         authors: O. Blum, B. Brattoli, B. Ommer
-#         conference: oral at GCPR, 2018
-
-#       - title: "Optogenetically stimulating intact rat corticospinal tract post-stroke restores motor control through regionalized functional circuit formation"
-#         authors: A. S. Wahl*, U. Büchler*, A. Brändli, B. Brattoli, S. Musall, H. Kasper, B. V. Ineichen, F. Helmchen, B. Ommer & M. E. Schwab
-#         conference: "Nature Communications, 2017"
-        
-#       - title: "Early reduced behavioral activity induced by large strokes affects the efficiency of enriched environment in rats"
-#         authors: A. S. Wahl, Erlebach, E, B. Brattoli, U. Büchler, J. Kaiser, V.B. Ineichen, A.C. Mosberger, S. Schneeberger, S. Imobersteg, M. Wieckhorst, M. Stirn, A. Schroeter, B. Ommer, M.E. Schwab
-#         conference: "Journal of Cerebral Blood Flow & Metabolism, 2018"
-
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
       - name: Python
-        level: 100%
+        level: 80%
 
       - name: PyTorch
-        level: 90%
+        level: 75%
 
       - name: Tensorflow
         level: 60%
-
-      - name: Caffe
-        level: 80%
-
-      - name: Matlab
-        level: 90%
-
-      - name: C/C++
-        level: 75%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
