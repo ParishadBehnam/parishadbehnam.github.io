@@ -133,10 +133,10 @@ awards:
       
 memberships:
     - role: Member of National Elite Foundation
-      time: 2014 - Present |
+      time: 2014 - Present
       
     - role: Member of the central council of <a href="http://www.ssc.ce.sharif.edu/" target="_blank" rel="nofollow">Students’ Scientific Chapter (SSC)</a>
-      time: 2018 |
+      time: 2018
 
     - role: Chief of staff in ACM ICPC - Asia Region
       time: 2017
@@ -152,7 +152,7 @@ memberships:
 
 projects:
     title: Projects
-    intro: You can find my other projects in <a href="https://github.com/ParishadBehnam/" target="_blank" rel="nofollow">my GitHub page</a>.
+    intro: You may find other projects in <a href="https://github.com/ParishadBehnam/" target="_blank" rel="nofollow">my GitHub page</a>.
     
     assignments:
       - title: Graph-based Word Embedding using Deep Neural Networks
