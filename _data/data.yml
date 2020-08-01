@@ -119,17 +119,24 @@ experiences:
           #- Bullet point
           
 awards:
-    - role: Ranked 13th region-wide and 14th nationwide among over 20,000 participants in M.Sc. university entrance exam
+    - role: Ranked 13th region-wide and 14th nationwide in M.Sc. university entrance exam
       time: 2018
+      details: |
+        among over 20,000 participants
       
     - role: Ranked 11th among 144 bachelor students in Sharif University of Technology
       time: 2018
+      details: |
 
-    - role: Ranked 18th region-wide and 27th nationwide among over 140,000 participants in B.Sc. university entrance exam
+    - role: Ranked 18th region-wide and 27th nationwide in B.Sc. university entrance exam
       time: 2014
+      details: |
+        among over 140,000 participants 
 
-    - role: Ranked 2nd in Iranopen competitions in Junior Demo Open Challenge league by "Intelligent House project"
+    - role: Ranked 2nd in Iranopen competitions by "Intelligent House project"
       time: 2012
+      details: |
+        in Junior Demo Open Challenge league
       
 memberships:
     - role: Member of National Elite Foundation
