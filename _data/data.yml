@@ -79,7 +79,8 @@ educationcomplete:
       university: Sharif University of Technology, Tehran, Iran
       time: 2014 - 2018
       details: |
-        GPA: 18.75/20 >
+        GPA: 18.75/20
+        
         Thesis Project: "Prediction of products features rates with sentiment analysis", under the supervision of Prof. Mahdieh Soleymani
 
     - degree: Diploma in Mathematics and Physics Discipline
@@ -119,14 +120,8 @@ experiences:
 
 projects:
     title: Projects
-    intro: >
-          - role: Intern
-            time: Jul 2018 - Sep 2018
-            company: <a href="https://cafebazaar.ir/" target="_blank" rel="nofollow">Cafe Bazaar</a>, Tehran, Iran
-            details: |
     assignments:
       - title: Graph-based Word Embedding using Deep Neural Networks
-        link: 
         tagline: "A deep approach for embedding words of texts, especially the unseen or less frequent ones, by considering Knowledge Graphs."
 
       #- title: DevStudio
