@@ -17,6 +17,7 @@ sidebar:
     website: #bbrattoli.github.io/publications/ #do not add http://
     linkedin: parishadbehnam
     github: parishadbehnam
+    medium: parishadbehnam
     gitlab: #parishadbehnam
     bitbucket:
     twitter: 
@@ -47,8 +48,8 @@ sidebar:
 career-profile:
     title: About Me
     summary: |
-      My name is Parishad BehnamGhader. I got my B.Sc. degree at Sharif University of Technology, Tehran, Iran and I am currently a 2<sup>nd</sup> year master's student in Artificial Intelligence at the same university and a researcher in Machine Learning Lab in computer engineering department under the supervision of Prof. Mahdieh Soleymani.
-      I have also started my summer internship recently at Max Planck Institute for Software Systems under the supervision of Prof. Manuel Gomez Rodriguez. I am mainly interested in Deep Learning, Graph Representation Learning, and Natural Language Processing. 
+      My name is Parishad BehnamGhader. I got my B.Sc. degree at Sharif University of Technology, Tehran, Iran and I am currently a 2<sup>nd</sup> year master's student in Artificial Intelligence at the same university and a researcher in <a href="mll.ce.sharif.edu/" target="_blank" rel="nofollow">Machine Learning Lab</a> in computer engineering department under the supervision of <a href="sharif.edu/~soleymani/" target="_blank" rel="nofollow">Prof. Mahdieh Soleymani</a>.
+      I have also started my summer internship recently at Max Planck Institute for Software Systems under the supervision of <a href="https://people.mpi-sws.org/~manuelgr/" target="_blank" rel="nofollow">Prof. Manuel Gomez Rodriguez</a>. I am mainly interested in Deep Learning, Graph Representation Learning, and Natural Language Processing. 
       More specifically, I take advantage of the real-world  information of knowledge graphs (KGs) to enhance deep neural networks' performance in various NLP tasks.
 # More specifically, I apply Deep Learning methods in NLP tasks and enhance the performance by incorporating knowledge from both texts and graphs.
 
@@ -76,6 +77,8 @@ educationcomplete:
       time: 2018 - present
       details: |
         GPA: 18.83/20
+        
+        Thesis Project: "Graph-based Word Embedding using Deep Neural Networks", under the supervision of Prof. Mahdieh Soleymani
     
     - degree: B.Sc. in Software Engineering
       university: Sharif University of Technology, Tehran, Iran
@@ -100,9 +103,9 @@ experiences:
       
     - role: Research Assistant
       time: Oct 2018 - Present
-      company: <a href="http://mll.ce.sharif.edu/" target="_blank" rel="nofollow">Machine Learning Laboratory</a>, Sharif University of Technology, Tehran, Iran
+      company: <a href="mll.ce.sharif.edu/" target="_blank" rel="nofollow">Machine Learning Laboratory</a>, Sharif University of Technology, Tehran, Iran
       details: |
-        Supervised by <a href="http://sharif.edu/~soleymani/" target="_blank" rel="nofollow">Prof. Mahdieh Soleymani</a>
+        Supervised by <a href="sharif.edu/~soleymani/" target="_blank" rel="nofollow">Prof. Mahdieh Soleymani</a>
 
     - role: Summer Intern
       time: Jul 2018 - Sep 2018
