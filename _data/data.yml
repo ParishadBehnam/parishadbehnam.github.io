@@ -48,7 +48,7 @@ sidebar:
 career-profile:
     title: About Me
     summary: |
-      My name is Parishad BehnamGhader. I got my B.Sc. degree at Sharif University of Technology, Tehran, Iran and I am currently a 2<sup>nd</sup> year master's student in Artificial Intelligence at the same university and a researcher in <a href="mll.ce.sharif.edu/" target="_blank" rel="nofollow">Machine Learning Lab</a> in computer engineering department under the supervision of <a href="sharif.edu/~soleymani/" target="_blank" rel="nofollow">Prof. Mahdieh Soleymani</a>.
+      My name is Parishad BehnamGhader. I got my B.Sc. degree at Sharif University of Technology, Tehran, Iran and I am currently a 2<sup>nd</sup> year master's student in Artificial Intelligence at the same university and a researcher in <a href="http://mll.ce.sharif.edu/" target="_blank" rel="nofollow">Machine Learning Lab</a> in computer engineering department under the supervision of <a href="http://sharif.edu/~soleymani/" target="_blank" rel="nofollow">Prof. Mahdieh Soleymani</a>.
       I have also started my summer internship recently at Max Planck Institute for Software Systems under the supervision of <a href="https://people.mpi-sws.org/~manuelgr/" target="_blank" rel="nofollow">Prof. Manuel Gomez Rodriguez</a>. I am mainly interested in Deep Learning, Graph Representation Learning, and Natural Language Processing. 
       More specifically, I take advantage of the real-world  information of knowledge graphs (KGs) to enhance deep neural networks' performance in various NLP tasks.
 # More specifically, I apply Deep Learning methods in NLP tasks and enhance the performance by incorporating knowledge from both texts and graphs.
@@ -103,7 +103,7 @@ experiences:
       
     - role: Research Assistant
       time: Oct 2018 - Present
-      company: <a href="mll.ce.sharif.edu/" target="_blank" rel="nofollow">Machine Learning Laboratory</a>, Sharif University of Technology, Tehran, Iran
+      company: <a href="http://mll.ce.sharif.edu/" target="_blank" rel="nofollow">Machine Learning Laboratory</a>, Sharif University of Technology, Tehran, Iran
       details: |
         Supervised by <a href="sharif.edu/~soleymani/" target="_blank" rel="nofollow">Prof. Mahdieh Soleymani</a>
 
