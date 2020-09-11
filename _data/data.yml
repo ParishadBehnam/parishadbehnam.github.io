@@ -126,12 +126,15 @@ experiences:
           #- Bullet point
           
 awards:
+    - role: Ranked 16<sup>th</sup> among 137 M.Sc. students in Sharif University of Technology
+      time: 2020
+
     - role: Ranked 13<sup>th</sup> region-wide and 14<sup>th</sup> nationwide in M.Sc. university entrance exam
       time: 2018
       details: |
         among almost 20,000 participants
       
-    - role: Ranked 11<sup>th</sup> among 144 bachelor students in Sharif University of Technology
+    - role: Ranked 11<sup>th</sup> among 144 B.Sc. students in Sharif University of Technology
       time: 2018
 
     - role: Ranked 18<sup>th</sup> region-wide and 27<sup>th</sup> nationwide in B.Sc. university entrance exam
