@@ -7,7 +7,8 @@ sidebar:
     education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Parishad BehnamGhader
+    name: Parishad BehnamGhader <br><br> پری&zwnj;شاد بهنام قادر
+
     tagline: Student and Researcher
     avatar: parishad_profile_400_cropped.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
