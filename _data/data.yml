@@ -48,8 +48,8 @@ sidebar:
 career-profile:
     title: About Me
     summary: |
-      My name is Parishad BehnamGhader. I got my B.Sc. degree at Sharif University of Technology, Tehran, Iran and I am currently a 2<sup>nd</sup> year master's student in Artificial Intelligence at the same university and a researcher in <a href="http://mll.ce.sharif.edu/" target="_blank" rel="nofollow">Machine Learning Lab</a> in computer engineering department under the supervision of <a href="http://sharif.edu/~soleymani/" target="_blank" rel="nofollow">Prof. Mahdieh Soleymani</a>.
-      I am mainly interested in Deep Learning, Graph Representation Learning, and Natural Language Processing. More specifically, I take advantage of the real-world  information of knowledge graphs (KGs) to enhance deep neural networks' performance in various NLP tasks.
+      My name is Parishad BehnamGhader. I got my B.Sc. degree at Sharif University of Technology, Tehran, Iran and I am currently a senior master's student in Artificial Intelligence at the same university and a researcher in <a href="http://mll.ce.sharif.edu/" target="_blank" rel="nofollow">Machine Learning Lab</a> in computer engineering department under the supervision of <a href="http://sharif.edu/~soleymani/" target="_blank" rel="nofollow">Prof. Mahdieh Soleymani</a>.
+      I am mainly interested in Deep Learning, Natural Language Processing, and Graph Representation Learning. More specifically, I currently take advantage of the real-world information of knowledge graphs (KGs) to enhance deep neural networks' performance in various NLP tasks.
 # More specifically, I apply Deep Learning methods in NLP tasks and enhance the performance by incorporating knowledge from both texts and graphs.
 # I have also started my summer internship recently at Max Planck Institute for Software Systems under the supervision of <a href="https://people.mpi-sws.org/~manuelgr/" target="_blank" rel="nofollow">Prof. Manuel Gomez Rodriguez</a>. 
 
@@ -171,6 +171,9 @@ projects:
     intro: You may find other projects in <a href="https://github.com/ParishadBehnam/" target="_blank" rel="nofollow">my GitHub page</a>.
     
     assignments:
+      - title: Language Modeling using KGs
+        tagline: "Improving BERT in Language Modeling task, using Knowledge Graphs."
+        
       - title: Graph-based Unseen Word Embedding
         tagline: "A deep approach for embedding words of texts, especially the unseen or less frequent ones, by considering Knowledge Graphs."
 
