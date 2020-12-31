@@ -23,7 +23,9 @@
     {% include education.html %}
   {% endif %}
 
-  {% include sidecontents.html %}
+  {% if sidebar.sidecontent %}
+    {% include sidecontents.html %}
+  {% endif %}
   {% include language.html %}
   {% include interests.html %}
 
