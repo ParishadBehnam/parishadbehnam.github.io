@@ -169,11 +169,11 @@ memberships:
 
 projects:
     title: Projects
-    intro: You may find other projects in <a href="https://github.com/ParishadBehnam/" target="_blank" rel="nofollow">my GitHub page</a>.
+    intro: You may find my projects in <a href="https://github.com/ParishadBehnam/" target="_blank" rel="nofollow">my GitHub page</a>.
     
     assignments:
-      - title: Language Modeling using KGs
-        tagline: "Improving BERT in Language Modeling task, using Knowledge Graphs."
+      - title: MG-BERT: Multi Graph Augmented BERT in Masked Language Modeling
+        tagline: "Improving BERT in the Masked Language Modeling task, using Knowledge Graphs and Text Graphs."
         
       - title: Graph-based Unseen Word Embedding
         tagline: "A deep approach for embedding words of texts, especially the unseen or less frequent ones, by considering Knowledge Graphs."
