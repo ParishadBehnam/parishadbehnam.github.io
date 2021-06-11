@@ -181,7 +181,7 @@ projects:
     intro: You may find my projects in <a href="https://github.com/ParishadBehnam/" target="_blank" rel="nofollow">my GitHub page</a>.
     
     assignments:
-      - title: MG-BERT: Multi Graph Augmented BERT in Masked Language Modeling
+      - title: "MG-BERT: Multi Graph Augmented BERT in Masked Language Modeling"
         link: "https://github.com/ParishadBehnam/MG-BERT"
         tagline: "Improving BERT in the Masked Language Modeling task, using Knowledge Graphs and Text Graphs."
         
