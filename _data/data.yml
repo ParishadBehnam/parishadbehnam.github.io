@@ -166,6 +166,15 @@ memberships:
       
     - role: Executive staff in ACM ICPC - Asia Region
       time: 2014 - 2015
+      
+publications:
+    title: Publications
+    intro: |
+      
+    papers:
+      - title: "MG-BERT: Multi Graph Augmented BERT in Masked Language Modeling"
+        authors: Parishad BehnamGhader, Hossein Zakerinia, Mahdieh Soleymani Baghshah
+        conference: NAACL 2021 (TextGraphs-15)
 
 projects:
     title: Projects
