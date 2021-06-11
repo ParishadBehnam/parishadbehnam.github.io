@@ -182,7 +182,7 @@ projects:
     
     assignments:
       - title: MG-BERT: Multi Graph Augmented BERT in Masked Language Modeling
-        link: "github.com/ParishadBehnam/MG-BERT"
+        link: "https://github.com/ParishadBehnam/MG-BERT"
         tagline: "Improving BERT in the Masked Language Modeling task, using Knowledge Graphs and Text Graphs."
         
       - title: Graph-based Unseen Word Embedding
