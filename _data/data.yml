@@ -187,6 +187,7 @@ publications:
       
     papers:
       - title: "MG-BERT: Multi Graph Augmented BERT in Masked Language Modeling"
+        link: "https://aclanthology.org/2021.textgraphs-1.12/"
         authors: Parishad BehnamGhader, Hossein Zakerinia, Mahdieh Soleymani Baghshah
         conference: NAACL 2021 (TextGraphs-15)
 
