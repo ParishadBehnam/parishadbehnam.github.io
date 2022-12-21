@@ -107,7 +107,7 @@ educationcomplete:
 experiences:
     - role: Researcher
       time: Jan 2022 - Present
-      company: Mila, Montreal, Canada
+      company: <a href="https://mcgill-nlp.github.io" target="_blank" rel="nofollow">McGill NLP</a> & <a href="https://mila.quebec/en/" target="_blank" rel="nofollow">Mila</a>, Montreal, Canada
       details: |
         Supervised by <a href="https://sivareddy.in" target="_blank" rel="nofollow">Prof. Siva Reddy</a>
 
