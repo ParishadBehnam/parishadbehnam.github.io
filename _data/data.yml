@@ -174,13 +174,18 @@ memberships:
       
 publications:
     title: Publications
-    intro: |
+    intro: My <a href="https://www.semanticscholar.org/author/Parishad-BehnamGhader/2101317786/" target="_blank" rel="nofollow">Semantic Scholar profile</a>.
       
     papers:
+      - title: "Evaluating Correctness and Faithfulness of Instruction-Following Models for Question Answering"
+        link: "https://arxiv.org/abs/2307.16877"
+        authors: Vaibhav Adlakha, Parishad BehnamGhader*, Xing Han Lu*, Nicholas Meade*, Siva Reddy (Core Contribution)
+        conference: ArXiv 2023
+        
       - title: "Can Retriever-Augmented Language Models Reason? The Blame Game Between the Retriever and the Language Model"
         link: "https://arxiv.org/abs/2212.09146"
         authors: Parishad BehnamGhader, Santiago Miret, Siva Reddy
-        conference: ArXiv 2022
+        conference: ArXiv 2023
         
       - title: "An Analysis of Social Biases Present in BERT Variants Across Multiple Languages"
         link: "https://openreview.net/forum?id=ej_ys2P0f1B"
