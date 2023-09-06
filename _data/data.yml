@@ -117,13 +117,13 @@ experiences:
       details: |
         Supervised by <a href="sharif.edu/~soleymani/" target="_blank" rel="nofollow">Prof. Mahdieh Soleymani</a>
 
-    - role: Summer Intern
+    - role: Research Intern
       time: Jun 2020 - Aug 2020
       company: Max Planck Institute for Software Systems, Kaiserslautern, Germany
       details: |
         Supervised by <a href="https://people.mpi-sws.org/~manuelgr/" target="_blank" rel="nofollow">Prof. Manuel Gomez Rodriguez</a>
       
-    - role: Summer Intern
+    - role: Software Intern
       time: Jul 2018 - Sep 2018
       company: <a href="https://cafebazaar.ir/" target="_blank" rel="nofollow">Cafe Bazaar</a>, Tehran, Iran
       details: |
@@ -179,7 +179,7 @@ publications:
     papers:
       - title: "Evaluating Correctness and Faithfulness of Instruction-Following Models for Question Answering"
         link: "https://arxiv.org/abs/2307.16877"
-        authors: Vaibhav Adlakha, Parishad BehnamGhader*, Xing Han Lu*, Nicholas Meade*, Siva Reddy (Core Contribution)
+        authors: Vaibhav Adlakha, Parishad BehnamGhader*, Xing Han Lu*, Nicholas Meade*, Siva Reddy (*Core Contribution)
         conference: ArXiv 2023
         
       - title: "Can Retriever-Augmented Language Models Reason? The Blame Game Between the Retriever and the Language Model"
