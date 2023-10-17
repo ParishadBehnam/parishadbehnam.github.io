@@ -189,7 +189,7 @@ publications:
       - title: "Can Retriever-Augmented Language Models Reason? The Blame Game Between the Retriever and the Language Model"
         link: "https://arxiv.org/abs/2212.09146"
         authors: Parishad BehnamGhader, Santiago Miret, Siva Reddy
-        conference: ArXiv 2023
+        conference: EMNLP Findings 2023
         
       - title: "An Analysis of Social Biases Present in BERT Variants Across Multiple Languages"
         link: "https://openreview.net/forum?id=ej_ys2P0f1B"
