@@ -74,11 +74,13 @@ career-profile:
 
 
 educationcomplete:
-    - degree: M.Sc. in Computer Science 
+    - degree: Ph.D. in Computer Science 
       university: McGill University, Montreal, Canada
       time: 2022 - present
       details: |
         GPA: 4.0/4
+
+        I started my studies at McGill University as a master's student and fast-tracked to PhD in Jan 2024.
         
 #        Thesis Project: "Graph-based Word Embedding using Deep Neural Networks", under the supervision of Prof. Mahdieh Soleymani
     
