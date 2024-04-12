@@ -185,7 +185,7 @@ publications:
     papers:
       - title: "LLM2Vec: Large Language Models Are Secretly Powerful Text Encoders"
         link: "https://arxiv.org/abs/2404.05961"
-        authors: Parishad BehnamGhader*, Vaibhav Adlakha*, Marius Mosbach, Dzmitry Bahdanau, Nicolas Chapados, Siva Reddy (*Core Contribution)
+        authors: Parishad BehnamGhader*, Vaibhav Adlakha*, Marius Mosbach, Dzmitry Bahdanau, Nicolas Chapados, Siva Reddy (*Equal Contribution)
         conference: ArXiv 2024
         
       - title: "Evaluating Correctness and Faithfulness of Instruction-Following Models for Question Answering"
