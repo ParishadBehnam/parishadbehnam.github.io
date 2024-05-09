@@ -194,7 +194,7 @@ publications:
       - title: "Evaluating Correctness and Faithfulness of Instruction-Following Models for Question Answering"
         link: "https://arxiv.org/abs/2307.16877"
         authors: Vaibhav Adlakha, Parishad BehnamGhader*, Xing Han Lu*, Nicholas Meade*, Siva Reddy (*Core Contribution)
-        conference: TACL 2023 --> Will be presented at NAACL 2024
+        conference: TACL 2023 --> Will be presented at ACL 2024
         
       - title: "Can Retriever-Augmented Language Models Reason? The Blame Game Between the Retriever and the Language Model"
         link: "https://arxiv.org/abs/2212.09146"
