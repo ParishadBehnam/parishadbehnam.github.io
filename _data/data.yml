@@ -194,7 +194,7 @@ publications:
       - title: "Evaluating Correctness and Faithfulness of Instruction-Following Models for Question Answering"
         link: "https://arxiv.org/abs/2307.16877"
         authors: Vaibhav Adlakha, Parishad BehnamGhader*, Xing Han Lu*, Nicholas Meade*, Siva Reddy (*Core Contribution)
-        conference: TACL 2023 --> Will be presented at ACL 2024
+        conference: TACL 2023 Journal, Will be presented at ACL 2024
         
       - title: "Can Retriever-Augmented Language Models Reason? The Blame Game Between the Retriever and the Language Model"
         link: "https://arxiv.org/abs/2212.09146"
@@ -204,12 +204,12 @@ publications:
       - title: "An Analysis of Social Biases Present in BERT Variants Across Multiple Languages"
         link: "https://openreview.net/forum?id=ej_ys2P0f1B"
         authors: Parishad BehnamGhader*, Aristides Milios* (Equal Contribution)
-        conference: NeurIPS 2022 (Trustworthy and Socially Responsible Machine Learning - TSRML)
+        conference: NeurIPS 2022 (Trustworthy and Socially Responsible Machine Learning - TSRML Workshop)
         
       - title: "MG-BERT: Multi Graph Augmented BERT in Masked Language Modeling"
         link: "https://aclanthology.org/2021.textgraphs-1.12/"
         authors: Parishad BehnamGhader, Hossein Zakerinia, Mahdieh Soleymani Baghshah
-        conference: NAACL 2021 (TextGraphs-15)
+        conference: NAACL 2021 (TextGraphs-15 Workshop)
 
 projects:
     title: Projects
