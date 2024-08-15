@@ -113,6 +113,12 @@ experiences:
       details: |
         Supervised by <a href="https://sivareddy.in" target="_blank" rel="nofollow">Prof. Siva Reddy</a>
 
+    - role: Machine Learning Research Intern
+      time: May 2024 - Sep 2024
+      company: Borealis AI, Montreal, Canada
+      details: |
+        Supervised by Siqi Liu and Eric Jiawei He
+      
     - role: Researcher
       time: Oct 2018 - Feb 2021
       company: <a href="http://mll.ce.sharif.edu/" target="_blank" rel="nofollow">Machine Learning Laboratory</a>, Sharif University of Technology, Tehran, Iran
@@ -194,7 +200,7 @@ publications:
       - title: "Evaluating Correctness and Faithfulness of Instruction-Following Models for Question Answering"
         link: "https://arxiv.org/abs/2307.16877"
         authors: Vaibhav Adlakha, Parishad BehnamGhader*, Xing Han Lu*, Nicholas Meade*, Siva Reddy (*Core Contribution)
-        conference: TACL 2023 Journal, Will be presented at ACL 2024
+        conference: TACL 2024 Journal, Will be presented at ACL 2024
         
       - title: "Can Retriever-Augmented Language Models Reason? The Blame Game Between the Retriever and the Language Model"
         link: "https://arxiv.org/abs/2212.09146"
