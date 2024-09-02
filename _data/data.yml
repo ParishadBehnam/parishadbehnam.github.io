@@ -138,6 +138,9 @@ experiences:
           
 awards:
 
+    - role: Recipient of the McGill University <a href="https://www.mcgill.ca/internalawards/faculty/science/" target="_blank" rel="nofollow">J.W. McConnell Memorial Fellowship</a>
+      time: 2024
+      
     - role: Recipient of the Mila's <a href="https://mila.quebec/en/21-edi-scholarships/" target="_blank" rel="nofollow">PhD Women in AI Excellence Scholarships</a>
       time: 2024
       
@@ -146,17 +149,20 @@ awards:
       
     - role: Recipient of the Mila's <a href="https://mila.quebec/en/21-edi-scholarships/" target="_blank" rel="nofollow">MSc Women in AI Excellence Scholarships</a>
       time: 2023
+
+    - role: Recipient of the McGill University <a href="https://www.mcgill.ca/internalawards/faculty/science/" target="_blank" rel="nofollow">Kharusi Family International Science Fellowship</a>
+      time: 2022
       
-    - role: Ranked 16<sup>th</sup> among 137 M.Sc. students in Sharif University of Technology
-      time: 2020
+    # - role: Ranked 16<sup>th</sup> among 137 M.Sc. students in Sharif University of Technology
+    #   time: 2020
 
     - role: Ranked 13<sup>th</sup> region-wide and 14<sup>th</sup> nationwide in M.Sc. university entrance exam
       time: 2018
       details: |
         among almost 20,000 participants
       
-    - role: Ranked 8<sup>th</sup> among 144 B.Sc. students in Sharif University of Technology
-      time: 2018
+    # - role: Ranked 8<sup>th</sup> among 144 B.Sc. students in Sharif University of Technology
+    #   time: 2018
 
     - role: Ranked 18<sup>th</sup> region-wide and 27<sup>th</sup> nationwide in B.Sc. university entrance exam
       time: 2014
