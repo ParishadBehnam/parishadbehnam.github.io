@@ -138,19 +138,19 @@ experiences:
           
 awards:
 
-    - role: Recipient of the McGill University <a href="https://www.mcgill.ca/internalawards/faculty/science/" target="_blank" rel="nofollow">J.W. McConnell Memorial Fellowship</a>
+    - role: Recipient of the McGill University <a href="https://www.mcgill.ca/internalawards/faculty/science/" target="_blank" rel="nofollow">J.W. McConnell Memorial Fellowship</a> (5,000 CAD)
       time: 2024
       
-    - role: Recipient of the Mila's <a href="https://mila.quebec/en/21-edi-scholarships/" target="_blank" rel="nofollow">PhD Women in AI Excellence Scholarships</a>
+    - role: Recipient of the Mila's <a href="https://mila.quebec/en/21-edi-scholarships/" target="_blank" rel="nofollow">PhD Women in AI Excellence Scholarships</a> (24,000 CAD)
       time: 2024
       
-    - role: Recipient of the McGill University <a href="https://www.mcgill.ca/internalawards/faculty/science/" target="_blank" rel="nofollow">BMO Responsible AI Fellowships</a>
+    - role: Recipient of the McGill University <a href="https://www.mcgill.ca/internalawards/faculty/science/" target="_blank" rel="nofollow">BMO Responsible AI Fellowships</a> (25,000 CAD)
       time: 2023
       
-    - role: Recipient of the Mila's <a href="https://mila.quebec/en/21-edi-scholarships/" target="_blank" rel="nofollow">MSc Women in AI Excellence Scholarships</a>
+    - role: Recipient of the Mila's <a href="https://mila.quebec/en/21-edi-scholarships/" target="_blank" rel="nofollow">MSc Women in AI Excellence Scholarships</a> (10,000 CAD)
       time: 2023
 
-    - role: Recipient of the McGill University <a href="https://www.mcgill.ca/internalawards/faculty/science/" target="_blank" rel="nofollow">Kharusi Family International Science Fellowship</a>
+    - role: Recipient of the McGill University <a href="https://www.mcgill.ca/internalawards/faculty/science/" target="_blank" rel="nofollow">Kharusi Family International Science Fellowship</a> (5,000 CAD)
       time: 2022
       
     # - role: Ranked 16<sup>th</sup> among 137 M.Sc. students in Sharif University of Technology
@@ -201,7 +201,7 @@ publications:
       - title: "LLM2Vec: Large Language Models Are Secretly Powerful Text Encoders"
         link: "https://arxiv.org/abs/2404.05961"
         authors: Parishad BehnamGhader*, Vaibhav Adlakha*, Marius Mosbach, Dzmitry Bahdanau, Nicolas Chapados, Siva Reddy (*Equal Contribution)
-        conference: ArXiv 2024
+        conference: COLM 2024
         
       - title: "Evaluating Correctness and Faithfulness of Instruction-Following Models for Question Answering"
         link: "https://arxiv.org/abs/2307.16877"
