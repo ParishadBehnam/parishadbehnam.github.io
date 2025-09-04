@@ -198,6 +198,11 @@ publications:
     intro: My <a href="https://www.semanticscholar.org/author/Parishad-BehnamGhader/2101317786/" target="_blank" rel="nofollow">Semantic Scholar profile</a>.
       
     papers:
+      - title: "DeepSeek-R1 Thoughtology: Let's think about LLM Reasoning"
+        link: "https://arxiv.org/abs/2504.07128"
+        authors: Sara Vera Marjanović*, Arkil Patel*, Vaibhav Adlakha, Milad Aghajohari, Parishad BehnamGhader, Mehar Bhatia, Aditi Khandelwal, Austin Kraft, Benno Krojer, Xing Han Lù, Nicholas Meade, Dongchan Shin, Amirhossein Kazemnejad, Gaurav Kamath, Marius Mosbach, Karolina Stańczak, Siva Reddy (*Equal Contribution)
+        conference: ArXiv
+        
       - title: "Exploiting Instruction-Following Retrievers for Malicious Information Retrieval"
         link: "https://arxiv.org/abs/2503.08644"
         authors: Parishad BehnamGhader, Nicholas Meade, Siva Reddy
