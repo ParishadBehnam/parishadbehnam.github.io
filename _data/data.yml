@@ -206,7 +206,7 @@ publications:
       - title: "Exploiting Instruction-Following Retrievers for Malicious Information Retrieval"
         link: "https://arxiv.org/abs/2503.08644"
         authors: Parishad BehnamGhader, Nicholas Meade, Siva Reddy
-        conference: ArXiv
+        conference: ACL Findings 2025
         
       - title: "LLM2Vec: Large Language Models Are Secretly Powerful Text Encoders"
         link: "https://arxiv.org/abs/2404.05961"
