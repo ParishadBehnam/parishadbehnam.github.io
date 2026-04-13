@@ -217,7 +217,7 @@ publications:
         link: "https://arxiv.org/abs/2404.05961"
         authors: Parishad BehnamGhader*, Vaibhav Adlakha*, Marius Mosbach, Dzmitry Bahdanau, Nicolas Chapados, Siva Reddy (*Equal Contribution)
         conference: COLM 2024
-        talk: Clic_at_AI, RBC Borealis
+        talk: Clic@AI, RBC Borealis
         
       - title: "Evaluating Correctness and Faithfulness of Instruction-Following Models for Question Answering"
         link: "https://arxiv.org/abs/2307.16877"
