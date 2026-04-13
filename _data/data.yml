@@ -194,7 +194,7 @@ memberships:
       
 publications:
     title: Publications
-    intro: My <a href="https://www.semanticscholar.org/author/Parishad-BehnamGhader/2101317786/" target="_blank" rel="nofollow">Semantic Scholar profile</a>.
+    intro: Checkout my <a href="https://www.semanticscholar.org/author/Parishad-BehnamGhader/2101317786/" target="_blank" rel="nofollow">Semantic Scholar</a> and <a href="https://scholar.google.com/citations?user=pw9mblYAAAAJ&hl=en" target="_blank" rel="nofollow">Google Scholar</a> profiles.
       
     papers:
       - title: "LLM2Vec-Gen: Generative Embeddings from Large Language Models"
