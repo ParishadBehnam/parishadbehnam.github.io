@@ -200,7 +200,8 @@ publications:
       - title: "LLM2Vec-Gen: Generative Embeddings from Large Language Models"
         link: "https://arxiv.org/abs/2603.10913"
         authors: Parishad BehnamGhader*, Vaibhav Adlakha*, Fabian David Schmidt, Nicolas Chapados, Marius Mosbach, Siva Reddy (*Equal Contribution)
-        conference: arXiv 2026 --- Invited Talks: Cohere, Microsoft Research
+        conference: arXiv 2026
+        talk: Cohere, Microsoft Research
         
       - title: "DeepSeek-R1 Thoughtology: Let's think about LLM Reasoning"
         link: "https://arxiv.org/abs/2504.07128"
@@ -215,7 +216,8 @@ publications:
       - title: "LLM2Vec: Large Language Models Are Secretly Powerful Text Encoders"
         link: "https://arxiv.org/abs/2404.05961"
         authors: Parishad BehnamGhader*, Vaibhav Adlakha*, Marius Mosbach, Dzmitry Bahdanau, Nicolas Chapados, Siva Reddy (*Equal Contribution)
-        conference: COLM 2024 --- Invited Talks: Clic@AI, RBC Borealis
+        conference: COLM 2024
+        talk: Clic_at_AI, RBC Borealis
         
       - title: "Evaluating Correctness and Faithfulness of Instruction-Following Models for Question Answering"
         link: "https://arxiv.org/abs/2307.16877"
@@ -225,7 +227,8 @@ publications:
       - title: "Can Retriever-Augmented Language Models Reason? The Blame Game Between the Retriever and the Language Model"
         link: "https://arxiv.org/abs/2212.09146"
         authors: Parishad BehnamGhader, Santiago Miret, Siva Reddy
-        conference: EMNLP Findings 2023 --- Invited Talk: Intel Labs
+        conference: EMNLP Findings 2023
+        talk: Intel Labs
         
       - title: "An Analysis of Social Biases Present in BERT Variants Across Multiple Languages"
         link: "https://openreview.net/forum?id=ej_ys2P0f1B"
