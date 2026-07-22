@@ -200,7 +200,7 @@ publications:
       - title: "LLM2Vec-Gen: Generative Embeddings from Large Language Models"
         link: "https://arxiv.org/abs/2603.10913"
         authors: Parishad BehnamGhader*, Vaibhav Adlakha*, Fabian David Schmidt, Nicolas Chapados, Marius Mosbach, Siva Reddy (*Equal Contribution)
-        conference: arXiv 2026
+        conference: COLM 2026
         talk: Cohere, Microsoft Research
         
       - title: "DeepSeek-R1 Thoughtology: Let's think about LLM Reasoning"
