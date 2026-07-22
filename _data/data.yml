@@ -113,6 +113,18 @@ experiences:
       details: |
         Supervised by <a href="https://sivareddy.in" target="_blank" rel="nofollow">Prof. Siva Reddy</a>
 
+    - role: Intern of Technical Staff
+      time: Jun 2026 - Nov 2026
+      company: <a href="https://cohere.com" target="_blank" rel="nofollow">Cohere</a>, Montreal, Canada
+      details: |
+        Supervised by Fabian David Schmidt and Carlos Lassance
+    
+    - role: Visiting Researcher
+      time: Jan 2026 - Jun 2026
+      company: <a href="https://www.servicenow.com/research/" target="_blank" rel="nofollow">ServiceNow AI Research</a>, Montreal, Canada
+      details: |
+        Supervised by Siva Reddy
+        
     - role: Machine Learning Research Intern
       time: May 2024 - Sep 2024
       company: <a href="https://www.borealisai.com" target="_blank" rel="nofollow">Borealis AI</a>, Montreal, Canada
