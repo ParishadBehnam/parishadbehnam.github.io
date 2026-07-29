@@ -212,6 +212,11 @@ publications:
     intro: Checkout my <a href="https://www.semanticscholar.org/author/Parishad-BehnamGhader/2101317786/" target="_blank" rel="nofollow">Semantic Scholar</a> and <a href="https://scholar.google.com/citations?user=pw9mblYAAAAJ&hl=en" target="_blank" rel="nofollow">Google Scholar</a> profiles.
       
     papers:
+      - title: CRAG-MM-Diagnostics: Enabling Stage-Wise Analysis of Knowledge-Intensive VQA
+        link: "https://arxiv.org/abs/2607.21155"
+        authors: Hanseok Oh, Parishad BehnamGhader, Benno Krojer, Hyunji Lee, Paul Liang, Siva Reddy, Verna Dankers
+        conference: ECCV 2026
+        
       - title: "LLM2Vec-Gen: Generative Embeddings from Large Language Models"
         link: "https://arxiv.org/abs/2603.10913"
         authors: Parishad BehnamGhader*, Vaibhav Adlakha*, Fabian David Schmidt, Nicolas Chapados, Marius Mosbach, Siva Reddy (*Equal Contribution)
